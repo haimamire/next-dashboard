@@ -1,5 +1,5 @@
 import "@/styles/global.css";
-import { inter, poppins } from "@/styles/fonts";
+import { inter } from "@/styles/fonts";
 
 export default function RootLayout({
   children,
